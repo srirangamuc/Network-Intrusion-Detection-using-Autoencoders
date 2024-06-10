@@ -1,4 +1,4 @@
-<h1 align="center">Network Intrusion Detection using Autoencoders</h1>
+<h1 align="center">🦋 Network Intrusion Detection using Autoencoders 🦋</h1>
 
 A simple autoencoder which can classify a request of a network is a normal one or not.
 
