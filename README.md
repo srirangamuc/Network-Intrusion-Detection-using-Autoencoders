@@ -3,9 +3,9 @@
 A simple autoencoder which can classify a request of a network is a normal one or not.
 
 ## Description
--Developed an anomaly detection system for network traffic using autoencoders. The project focused on identifying unusual patterns in network data that could indicate potential security threats, such as intrusions, malware activities, or other cyber-attacks. 
--Autoencoders are a type of neural Network used for unsupervised learning. Here we are classifying requests as malicious or not.
--The Dataset consists of 42 features . They are respectively
+- Developed an anomaly detection system for network traffic using autoencoders. The project focused on identifying unusual patterns in network data that could indicate potential security threats, such as intrusions, malware activities, or other cyber-attacks. 
+- Autoencoders are a type of neural Network used for unsupervised learning. Here we are classifying requests as malicious or not.
+- The Dataset consists of 42 features . They are respectively
     'duration', 'protocol_type', 'service', 'flag', 'src_bytes',
    'dst_bytes', 'land', 'wrong_fragment', 'urgent', 'hot',
    'num_failed_logins', 'logged_in', 'num_compromised', 'root_shell',
